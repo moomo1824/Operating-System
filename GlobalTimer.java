@@ -5,4 +5,3 @@ public class GlobalTimer {
         this.time = initialTime;
     }
 }
-
